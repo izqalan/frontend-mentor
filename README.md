@@ -1,5 +1,5 @@
 # Frontend mentor challenges and others
->frontendmentor.com challenges & some others FE challenges
+>frontendmentor.io challenges & some others FE challenges
 
 | Challenge | Repository | stack |
 |:---------:|------------|-------|
