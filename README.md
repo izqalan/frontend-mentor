@@ -1,4 +1,4 @@
-# Frontend mentor challenges
+# Frontend mentor challenges and others
 >The act of typing text to the screen
 
 | Challenge | Repository | stack |
