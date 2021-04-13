@@ -1,5 +1,5 @@
 # Frontend mentor challenges and others
->The act of typing text to the screen
+>frontendmentor.com challenges & some others FE challenges
 
 | Challenge | Repository | stack |
 |:---------:|------------|-------|
